@@ -1,2 +1,2 @@
-# DataSci
-General code snippets
+# Data Science Coursera
+General code snippets 
